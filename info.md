@@ -1,11 +1,11 @@
 ### Page Contents
 - [Welcome](#welcome)
 - [The Meetup](#the-meetup)
-  - [Speaking at a Meetup](#speaking-at-a-meetup)
+- [   Speaking at a Meetup](#speaking-at-a-meetup)
 - [OWASP AppSec Day Conference](#owasp-appsec-day-conference)
 - [Participation](#participation)
 - [Sponsors](#sponsors)
-  - [Chapter Sponsors](#chapter-sponsors)
+- [   Chapter Sponsors](#chapter-sponsors)
 - [Chapter leaders](#chapter-leaders)
 - [Contact](#contact)
 

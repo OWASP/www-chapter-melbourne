@@ -58,7 +58,7 @@ Welcome to the Melbourne, Australia chapter homepage.
 We look forward to welcoming you at our events.
 
 Follow chapter news and activites on:
- - Twitter [@OWASPmelbourne](https://twitter.com/OWASPmelbourne)
+ - [Twitter @OWASPmelbourne](https://twitter.com/OWASPmelbourne)
  - [Meetup.com](https://www.meetup.com/Application-Security-OWASP-Melbourne/)
 <br /><br />
 
@@ -79,7 +79,7 @@ everything ourselves. If you like what we do and would like to show your support
 
 
 #### Speaking at a Meetup
-To be a speaker at the next Melbourne Chapter event, simply message the local chapter leader on [Meetup.com](https://www.meetup.com/Application-Security-OWASP-Melbourne/) with details of the talk.
+To be a speaker at the next Melbourne Chapter event, simply message the local chapter leader on [Meetup.com](https://www.meetup.com/Application-Security-OWASP-Melbourne/) with details of the talk. You can also reach out via Twitter DMs, or via emails to one of the Chapter leads.
 
 <br /><br />
 ### OWASP AppSec Day Conference
@@ -117,4 +117,4 @@ If you'd like to support our chapter events through sponsorship, please reach ou
     page](http://www.meetup.com/Application-Security-OWASP-Melbourne)**.
   - [Twitter, but of course\!](http://twitter.com/OWASPmelbourne)
   - [Slack, yes we have that too\!](http://owaspslack.com/)
-    - We're on Slack Channels #chapter-melbourne and #appsec-day
+    - We're on Slack Channels `#chapter-melbourne` and `#appsec-day`
