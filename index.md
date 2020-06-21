@@ -5,9 +5,9 @@ title: OWASP Melbourne
 tags: Melbourne Australia AppSecDay
 level: 0
 
-region: Asia/Pacific
+region: Oceana
 
-auto-migrated: 1
+auto-migrated: 0
 
 ---
 
