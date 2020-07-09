@@ -116,5 +116,6 @@ If you'd like to support our chapter events through sponsorship, please reach ou
   - **[OWASP Melbourne Meetup.com
     page](http://www.meetup.com/Application-Security-OWASP-Melbourne)**.
   - [Twitter, but of course\!](http://twitter.com/OWASPmelbourne)
-  - [Slack, yes we have that too\!](http://owaspslack.com/)
+  - [Slack, yes we have that too\!](https://owasp-slack.herokuapp.com/)
     - We're on Slack Channels `#chapter-melbourne` and `#appsec-day`
+  - [but the Melbourne Chapter is more social on Discord](https://discord.gg/uAWze2B) come say hi :)
