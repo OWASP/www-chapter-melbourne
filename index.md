@@ -101,12 +101,10 @@ If you'd like to support our chapter events through sponsorship, please reach ou
 <br /><br />
 ## Chapter leaders
 
-  - [Pamela O'shea](Mailto:Pamela.oshea@owasp.org) |
-    [@pamoshea](https://twitter.com/pamoshea)
   - [Daniel Ting](mailto:Daniel.ting@owasp.org) |
     [@hellodanielting](https://twitter.com/hellodanielting)
-  - [Julian Berton](mailto:julian.berton@owasp.org) |
-    [@JulianBerton](https://twitter.com/JulianBerton)
+  - [Aaron Robertson](mailto:aaron.robertson@owasp.org) |
+    [@hotpheex](https://twitter.com/hotpheex)
 
 ## Contact
 
