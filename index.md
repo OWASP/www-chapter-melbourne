@@ -4,10 +4,7 @@ layout: col-sidebar
 title: OWASP Melbourne
 tags: Melbourne Australia AppSecDay
 level: 0
-
 region: Oceania
-
-auto-migrated: 0
 
 ---
 
@@ -74,7 +71,7 @@ Take a look at our upcoming meetups, and past ones at our [Meetup.com Page](http
 Watch past meetups on our [OWASP Melbourne Youtube Channel](https://www.youtube.com/channel/UCDwRks28thuvwICPM5VgmSQ) (which we publish videos to when we can).
 
 Last, but not least, we are all volunteers and typically pay for
-everything ourselves. If you like what we do and would like to show your support - please consider donating and becoming an OWASP member. 
+everything ourselves. If you like what we do and would like to show your support - please consider donating and becoming an [OWASP member](https://owasp.org/membership/). 
 <br /><br />
 
 
@@ -104,12 +101,10 @@ If you'd like to support our chapter events through sponsorship, please reach ou
 <br /><br />
 ## Chapter leaders
 
-  - [Pamela O'shea](Mailto:Pamela.oshea@owasp.org) |
-    [@pamoshea](https://twitter.com/pamoshea)
   - [Daniel Ting](mailto:Daniel.ting@owasp.org) |
     [@hellodanielting](https://twitter.com/hellodanielting)
-  - [Julian Berton](mailto:julian.berton@owasp.org) |
-    [@JulianBerton](https://twitter.com/JulianBerton)
+  - [Aaron Robertson](mailto:aaron.robertson@owasp.org) |
+    [@hotpheex](https://twitter.com/hotpheex)
 
 ## Contact
 
