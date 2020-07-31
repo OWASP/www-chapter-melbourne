@@ -5,6 +5,9 @@ title: OWASP Melbourne
 tags: Melbourne Australia AppSecDay
 level: 0
 region: Oceania
+meetup-group: Application-Security-OWASP-Melbourne
+country: Australia
+postal-code: 
 
 ---
 
