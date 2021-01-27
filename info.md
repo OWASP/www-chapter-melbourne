@@ -18,6 +18,7 @@
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
 ### Social Links
+* [Email](mailto:melbourne-chapter@owasp.org)
 * [Twitter @OWASPmelbourne](https://twitter.com/OWASPmelbourne)
 * [Meetups @meetup.com](https://www.meetup.com/Application-Security-OWASP-Melbourne/)
 * [OWASP Slack team](https://join.slack.com/t/owasp/shared_invite/enQtNjExMTc3MTg0MzU4LWQ2Nzg3NGJiZGQ2MjRmNzkzN2Q4YzU1MWYyZTdjYjA2ZTA5M2RkNzE2ZjdkNzI5ZThhOWY5MjljYWZmYmY4ZjM)
