@@ -1,6 +1,6 @@
 ### Page Contents
 - [Welcome](#welcome)
-- [The Meetup](#the-meetup)
+- [The Meetup](https://www.meetup.com/Application-Security-OWASP-Melbourne/)
 - [   Speaking at a Meetup](#speaking-at-a-meetup)
 - [OWASP AppSec Day Conference](#owasp-appsec-day-conference)
 - [Participation](#participation)
