@@ -66,8 +66,8 @@ If you'd like to support our chapter events through sponsorship, please reach ou
 
   - [Daniel Ting](mailto:Daniel.ting@owasp.org) |
     [@hellodanielting](https://twitter.com/hellodanielting)
-  - [Aaron Robertson](mailto:aaron.robertson@owasp.org) |
-    [@hotpheex](https://twitter.com/hotpheex)
+  - [Glye Dela Cruz](mailto:gyle.delacruz@owasp.org) |
+    [@GyledC](https://twitter.com/GyledC)
 
 ## Contact
 
