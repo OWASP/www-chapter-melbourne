@@ -1,0 +1,29 @@
+community:
+  - name: chapter-melbourne
+    platform: slack
+    url: https://owasp.slack.com/archives/C04SGAEDE
+    description: OWASP Melbourne (Australia)
+leaders:
+  - name: Daniel Ting
+    email: daniel.ting@owasp.org
+    github: hellodanielting
+  - name: Gyle dela Cruz
+    email: gyle.delacruz@owasp.org
+location:
+  country: Australia
+  country_code: AU
+  region: Victoria
+  city: Melbourne
+  latitude: -37.8142454
+  longitude: 144.9631732
+meetup_group: Application-Security-OWASP-Melbourne
+name: OWASP Melbourne
+repositories:
+  - name: www-chapter-melbourne
+    url: https://github.com/OWASP/www-chapter-melbourne
+    description: OWASP Foundation Web Repository
+tags:
+  - Melbourne
+  - Australia
+  - AppSecDay
+website: https://owasp.org/www-chapter-melbourne
